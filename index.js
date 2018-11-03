@@ -660,4 +660,4 @@ message.channel.send(`This avatar For ${user} link : ${user.avatarURL}`);
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login('NTA1NDQ0NzgxMzM0MjAwMzIx.Dr8AeQ.7xCCQ-qTiNUfMS-VlDHp8BIwrBU');
